@@ -21,7 +21,7 @@ void MainWindow::initUI()
     this->setStatusBar(statusBar);
     sandBoxModel = new SandBoxItemModel();
 
-    QFile file(":/resources/sandbox.txt");              //sandbox locations are read from the text file
+    QFile file(":/sandbox.txt");              //sandbox locations are read from the text file
     file.open(QIODevice::ReadOnly);
     sandBoxModel->setSandBoxDetails(file.readAll());
 

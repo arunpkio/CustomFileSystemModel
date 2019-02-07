@@ -1,5 +1,5 @@
 <RCC>
     <qresource prefix="/">
-        <file>resources/sandbox.txt</file>
+        <file>sandbox.txt</file>
     </qresource>
 </RCC>

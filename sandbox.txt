@@ -1,2 +1,1 @@
-D:\MySandBox
-D:\MySandBox2
+/Users/arunpk/Holoplot/00_Orbit_Project/00_Orbit3D/sw__orbit3d
